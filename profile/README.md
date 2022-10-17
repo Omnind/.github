@@ -12,7 +12,7 @@ We have 2 open-source projects:
 👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
 
 ```markdown
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KITTO-Software/apple-data,apple-data/star-history&type=Date)](https://star-history.com/#KITTO-Software/apple-data&apple-data/star-history&Date)
 ```
 
 ## Bytebase 🏟
