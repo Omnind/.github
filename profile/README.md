@@ -1,36 +1,9 @@
 ## Hey, Welcome to KittoTek 👋
 
-![Database schema change and version control for teams.](https://raw.githubusercontent.com/bytebase/bytebase/main/docs/assets/illustration/banner.webp)
-
-We have 2 open-source projects:
-
-- [Bytebase](https://bytebase.com), a **web-based**, **zero-config** database schema change and version control management tool for Developers and DBAs. Focus on safety and efficiency.
-- [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Date)
-
-
-👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
-
+👆 
 ```markdown
 [![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Date)
 ```
-
-## Bytebase 🏟
-
-[Bytebase](https://bytebase.com) wants to address the pain points around collaboration among Developers and DBAs, and also re-define the Database CI/CD process.
-
-### For DBA and DevOps Team - 10x operational efficiency
-
-A collaborative web-console to allow DBAs to manage database tasks and handle developer tickets much more efficiently than traditional tools.
-
-### For Tech Lead - Improve team velocity and reduce risk
-
-Teams using Bytebase will naturally adopt industry best practice for managing database schema changes. Tech leads will see an improved development velocity and reduced outages caused by database changes.
-
-### For Developer - Holistic view of database schema changes
-
-Regardless of working as an IC in a team or managing your own side project, developers using Bytebase will have a holistic view of all the related database info, the ongoing database schema change tasks and the past database migration history.
 
 ## star-history ⭐️
 
