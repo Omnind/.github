@@ -7,7 +7,7 @@ We have 2 open-source projects:
 - [Bytebase](https://bytebase.com), a **web-based**, **zero-config** database schema change and version control management tool for Developers and DBAs. Focus on safety and efficiency.
 - [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KITTO-Software/apple-data,apple-data/star-history&type=Date)](https://star-history.com/#KITTO-Software/apple-data&apple-data/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KITTO-Software/iRingo,iRingo/star-history&type=Date)](https://star-history.com/#KITTO-Software/iRingo&iRingo/star-history&Date)
 
 👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
 
