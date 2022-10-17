@@ -9,6 +9,9 @@ We have 2 open-source projects:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant,Health-Habit-Assistant/star-history&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Health-Habit-Assistant/star-history&Date)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Masayuki-JP/Health-Habit-Assistant&type=Date)](https://star-history.com/#Masayuki-JP/Health-Habit-Assistant&Date)
+
+
 👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
 
 ```markdown
