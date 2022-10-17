@@ -1,4 +1,4 @@
-## Hey, this is Bytebase 👋
+## Hey, Welcome to KittoTek 👋
 
 ![Database schema change and version control for teams.](https://raw.githubusercontent.com/bytebase/bytebase/main/docs/assets/illustration/banner.webp)
 
